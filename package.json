@@ -1,7 +1,7 @@
 {
   "name": "follow-lazy",
   "description": "couchdb follow with lazy lists",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "repository": {
     "url": "git://github.com/andrew12/follow-lazy.git"
   },
